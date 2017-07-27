@@ -1,0 +1,12 @@
+body {
+  background: #f3f3f3
+}
+.wrapper{
+	overflow: hidden;
+	height: 400px;
+	width: 900px;
+	position: relative;
+}
+.center{
+	margin: 0 auto;
+}
